@@ -31,11 +31,9 @@ after that the function calls another function to decide the username
 the function loops through an algorithm and randomize the username based on the static seed of 1337. Because the seed is static that means the output is static. we go through the loop to see the output and find that the username is s3cur1ty 
 
 
-![alt text](https://github.com/Mohamed-Adil-Cyber/AthackReverseSolutions/blob/main/Authorize/images/Screenshot_1.jpg)
+![alt text](https://github.com/Mohamed-Adil-Cyber/AthackReverseSolutions/blob/main/Authorize/images/Screenshot_7.jpg)
 
 meaning that the correct input is s3cur1ty 95295a20f4a48485 giving us the flag 
 AtHackCTF{s3cur1ty_95295a20f4a48485}
-
-
 
 
