@@ -1,4 +1,4 @@
-the program is sursingly a python script this time and not an exe so lets see what the code
+the program is surprisingly a python script this time and not an exe so lets see what the code
 
 ![alt text](https://github.com/Mohamed-Adil-Cyber/AthackReverseSolutions/blob/main/PicklySituation/images/Screenshot_1.jpg)
 
