@@ -2,7 +2,7 @@ the program is surprisingly a python script this time and not an exe so lets see
 
 ![alt text](https://github.com/Mohamed-Adil-Cyber/AthackReverseSolutions/blob/main/PicklySituation/images/Screenshot_1.jpg)
 
-the code is turned into character stream using pickle and encoded with base 64 and we run it the code works normally on python 3.6 which means the encoded part includes "exec" to run the string
+the code is turned into a character stream using pickle and encoded with base 64 and we run it the code works normally on python 3.6 which means the encoded part includes "exec" to run the string
 
 so firstly we take the base 64 string and and decode it without the pickle
 
