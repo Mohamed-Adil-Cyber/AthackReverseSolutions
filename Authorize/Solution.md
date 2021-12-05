@@ -7,7 +7,7 @@ the program wants two inputs as arguments and will write "You cannot access me w
 Let see what functions decides if the input is wrong or correct
 
 
-we open ida and search for the sring "password" assuming that it should be in the function that decides if the input is wrong or correct
+we open ida and search for the string "password" assuming that it should be in the function that decides if the input is wrong or correct
 
 ![alt text](https://github.com/Mohamed-Adil-Cyber/AthackReverseSolutions/blob/main/Authorize/images/Screenshot_1.jpg)
 ![alt text](https://github.com/Mohamed-Adil-Cyber/AthackReverseSolutions/blob/main/Authorize/images/Screenshot_2.jpg)
